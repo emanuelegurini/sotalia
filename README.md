@@ -1,11 +1,5 @@
-Open Agent è una progetto Open Source. 
+Sotalia è una progetto Open Source e sarà il primo Managed Service completamente gestito da un LLM, attraverso protoccollo MCP.
 
-Con Open Agent sarà il primo Managed Service completamente gestito da un LLM, attraverso protoccollo MCP. 
-
-Per il momento, l'obiettivo è integrare i servizi di AWS, attraverso la riscrittura di botocore e boto3. In Open Agent queste librerie prendono il nome di Sotalia. 
-
-TO DO: 
-- implementare la sessione (da botocore)
-- riscrivere il protocollo MCP eliminando tutta l'astrazione di FASTMCP.
+Per il momento, l'obiettivo è integrare i servizi di AWS. In seguito, in Sotalia si potranno utilizzare diversi provider.
 
 Questo documento è in WIP.
